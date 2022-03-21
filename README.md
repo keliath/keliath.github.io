@@ -1,4 +1,4 @@
-# FrontEnd-Test Marvel Api
+# Marvel Api Client
 
 ### Aplicación cliente marvel api
 
